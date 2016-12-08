@@ -1,0 +1,25 @@
+[
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "description": "",
+    "restrictions": [
+      {
+        "type": "size",
+        "description": "",
+        "value": ""
+      },
+      {
+        "type": "closed season",
+        "area": "",
+        "duration": {
+          "start": "",
+          "end": ""
+        }
+      }
+    ],
+    "image": "",
+    "largeImage": ""
+  }
+]
